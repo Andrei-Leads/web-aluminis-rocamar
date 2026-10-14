@@ -428,6 +428,6 @@ export default defineSiteConfig({
   seo: {
     titulo: "Ventanas de aluminio y PVC en Alaquàs | Aluminis Rocamar",
     descripcion: "Taller en Alaquàs: ventanas de aluminio y PVC, cerramientos de terraza, persianas y mosquiteras a medida. Medición sin coste.",
-    url: "https://ejemplo.com",
+    url: "https://web-aluminis-rocamar.vercel.app/",
   },
 });
