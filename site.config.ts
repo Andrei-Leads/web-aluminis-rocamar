@@ -223,7 +223,7 @@ export default defineSiteConfig({
         "Junquillos nuevos si hace falta",
         "Retirada del vidrio viejo",
       ],
-      imagenes: [], // FOTO PENDIENTE: servicio-vidrio.jpg (operario colocando un doble vidrio)
+      imagenes: [{ src: "/ejemplo/servicio-vidrio.jpg", alt: "Operario con guantes colocando un doble vidrio en una ventana corredera de aluminio" }],
       preguntas: [
         {
           pregunta: "¿Vale para cualquier ventana?",
@@ -293,7 +293,7 @@ export default defineSiteConfig({
       anio: 2026,
       servicio: "persianas-y-motorizacion",
       duracion: "1 día",
-      imagenes: [{ src: "/ejemplo/servicio-persiana.jpg", alt: "Persiana de aluminio gris a medio bajar en una fachada blanca" }], // FOTO PENDIENTE: trabajo-alaquas.jpg (pulsador de persiana)
+      imagenes: [{ src: "/ejemplo/trabajo-alaquas.jpg", alt: "Pulsador de persiana motorizada junto a una ventana de aluminio con la persiana bajada" }],
     },
     {
       titulo: "Mosquiteras en Xirivella",
